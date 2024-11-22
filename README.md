@@ -18,11 +18,16 @@ Used plots such as histograms, bar charts, and correlation heatmaps.
 **4. Model Implementation**
 
 Trained and evaluated multiple machine learning models to predict term deposit subscription:
-Logistic Regression: Achieved an accuracy of 89%.
-K-Neighbors Classifier: Achieved an accuracy of 89%.
-Random Forest Classifier: Achieved an accuracy of 89%.
-Support Vector Classifier (SVC): Achieved an accuracy of 84%.
-Gaussian Naive Bayes: Achieved an accuracy of 83%.
+
+*Logistic Regression:* Achieved an accuracy of **89%.**
+
+*K-Neighbors Classifier:* Achieved an accuracy of **89%.**
+
+*Random Forest Classifier:* Achieved an accuracy of **89%.**
+
+*Support Vector Classifier (SVC):* Achieved an accuracy of **84%.**
+
+*Gaussian Naive Bayes:* Achieved an accuracy of **83%.**
 
 **Results**
 
